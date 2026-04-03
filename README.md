@@ -14,5 +14,5 @@ A simple Python tool to generate QR codes from text or URLs with custom colors.
 1. Make sure you have Python installed (3.6+)
 
 2. Install required packages:
-```bash
+```brash
 pip install -r requirements.txt
